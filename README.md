@@ -26,4 +26,4 @@ with the "platform [for precompiled libs]].txt" naming it accordingly or uncomme
 The following tricks accelerate your development cycles (the necessary nrfutil.exe is included):
 press ctrl + alt + 'S' to compile and export hex
 C:\Users\yourComputer\Documents\Arduino\SMAQ2_FW3\nrfutil dfu genpkg --application C:\Users\yourComputer\Documents\Arduino\SMAQ2_FW3\SMAQ2_FW3.ino.SMA_Q2.hex --sd-req 0x88 C:\Users\yourComputer\Documents\Arduino\SMAQ2_FW3\SMAQ2_FW3.zip
-if you have http://bluetoothinstaller.com/bluetooth-command-line-tools/btobex.html installed:  btobex -n "Galaxy S5" "C:\Users\Kauzdesktop\Documents\Arduino\SMAQ2_FW3\SMAQ2_FW3.zip
+if you have http://bluetoothinstaller.com/bluetooth-command-line-tools/btobex.html installed:  btobex -n "Galaxy S5" "C:\Users\yourComputer\Documents\Arduino\SMAQ2_FW3\SMAQ2_FW3.zip"
